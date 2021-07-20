@@ -2,6 +2,7 @@ import '../src/styles/animate.css';
 import '../src/styles/index.css';
 import '../node_modules/jquery';
 import '../node_modules/jquery-circle-progress';
+import '../node_modules/slick-carousel';
 
 $(document).ready(function () {
     $(window).on('load', function () {

@@ -7,6 +7,7 @@
     "bootstrap-icons": "^1.5.0",
     "jquery": "^3.6.0",
     "jquery-circle-progress": "^1.2.2",
+    "slick-carousel": "^1.8.1",
     "webpack": "^5.45.1",
     "webpack-cli": "^4.7.2"
   },
