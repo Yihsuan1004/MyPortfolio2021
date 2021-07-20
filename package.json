@@ -8,6 +8,7 @@
     "jquery": "^3.6.0",
     "jquery-circle-progress": "^1.2.2",
     "slick-carousel": "^1.8.1",
+    "webfontloader": "^1.6.28",
     "webpack": "^5.45.1",
     "webpack-cli": "^4.7.2"
   },
